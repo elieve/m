@@ -110,7 +110,7 @@ HELP_4 = """✅<u>**Extra  Commands:**</u>
 
 3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat."""
 
-HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
+HELP_6 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /addsudo [Username or Reply to a user]
 /delsudo [Username or Reply to a user]
 
@@ -173,3 +173,4 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 **Example:** `/broadcast -user -assistant -pin Hello Testing`
 
 """
+HELP_5 """[GC SUPORT](@ygabutkan)"""
