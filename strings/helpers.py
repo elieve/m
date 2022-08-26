@@ -174,6 +174,6 @@ HELP_6 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 
 """
 HELP_5 = """
-[GC SUPORT](https://t.me/ygabutkan).
-[Maintenance by](@baytoddd).
+[GC SUPORT](https://t.me/ygabutkan)
+[Maintenance by](https://t.me/baytoddd)
 """
