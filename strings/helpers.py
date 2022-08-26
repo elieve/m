@@ -173,4 +173,6 @@ HELP_6 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 **Example:** `/broadcast -user -assistant -pin Hello Testing`
 
 """
-HELP_5 """[GC SUPORT](@ygabutkan)"""
+HELP_5 """[GC SUPORT](@ygabutkan).
+[Maintenance by](@baytoddd).
+"""
