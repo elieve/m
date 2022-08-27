@@ -102,6 +102,6 @@ HELP_4 = """✅<u>**Perintah Ekstra:**</u>
 3️⃣ **Tipe Putar** [Semua Orang atau Admin] - Jika admin, hanya admin yang ada di grup yang dapat memutar musik di obrolan suara."""
 
 HELP_5 = """
-[DUKUNGAN GC](https://t.me/ygabutkan)
-[Pemeliharaan oleh](https://t.me/baytoddd)
+[ELIEVE SUPPORT](https://t.me/ygabutkan)
+DI MAINTENANCE OLEH [BAYU-EX](https://t.me/baytoddd)
 """
